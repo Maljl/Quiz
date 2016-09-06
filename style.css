@@ -1,3 +1,7 @@
+body {
+    background-image: url(https://www.w3.org/2016/Talks/W3CTrack-IH/covers/blackboard.jpg);
+}
+
 .navbar {
     background-color: #333;
     border-radius: 0px;
@@ -8,7 +12,7 @@
     background-image: url(https://www.w3.org/2016/Talks/W3CTrack-IH/covers/blackboard.jpg);
     background-repeat: no-repeat;
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 40px;
     margin-bottom: 0px;
     color: white;
 }
@@ -23,10 +27,11 @@
 
 .box1 {
     background-color: #c2d6d6;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     text-align: center;
     color: #666666;
+    margin-bottom: 40px;
 
 }
 .box1:hover {
@@ -40,10 +45,11 @@
 
 .box2 {
     background-color: #a3c2c2;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     text-align: center;
     color: #666666;
+    margin-bottom: 40px;
 }
 .box2:hover {
     background-color: #e0ebeb;
@@ -55,10 +61,11 @@
 
 .box3 {
     background-color: #85adad;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     text-align: center;
     color: #666666;
+    margin-bottom: 40px;
 }
 .box3:hover {
     background-color: #d1e0e0;
