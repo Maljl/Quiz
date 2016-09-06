@@ -109,16 +109,18 @@ li a:hover {
 }
 
 
-#alternativ1:hover {
-    color: black;
-}
-
 .check:hover {
-    color: black;
+    color: #62ABB5;
+    transition-property: color, text;
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: linear; 
 }
 
 
 
+input[type=radio]:checked + label span .check{
+    color: #62ABB5
+}
 
 
 
