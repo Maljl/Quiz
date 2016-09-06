@@ -20,6 +20,10 @@
     color: white;
 }
 
+.questions {
+    text-align: center;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -60,6 +64,20 @@ li a:hover {
   cursor: pointer;
   margin: 5px;
 }
+.quizknapp2 {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #62ABB5;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 15px;
+  padding: 8px;
+  width: 120px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
 
 .quizknapp span {
   cursor: pointer;
@@ -81,16 +99,23 @@ li a:hover {
   padding-right: 25px;
 }
 
+.quizknapp2:hover span {
+  padding-right: 15px;
+}
+
 .quizknapp:hover span:after {
   opacity: 1;
   right: 0;
 }
 
 
+#alternativ1:hover {
+    color: black;
+}
 
-
-
-
+.check:hover {
+    color: black;
+}
 
 
 
