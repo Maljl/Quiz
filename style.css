@@ -1,36 +1,15 @@
 body {
-    background-image: url(http://wallpapercave.com/wp/kSQdCxM.jpg);
+    background-image: url(https://www.w3.org/2016/Talks/W3CTrack-IH/covers/blackboard.jpg);
 }
 
 .navbar {
-    background: rgba(255, 255, 255, 0);
+    background-color: #333;
     border-radius: 0px;
     margin-bottom: 0px;
-    border-width: 0px;
-    -webkit-box-shadow: 0px 0px;
-    box-shadow: 0px 0px;
-    background-color: rgba(0,0,0,0.0);
-    background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));
-    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
-    background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
-
-}
-
-
-.navbar-header {
-    border-radius: 0px;
-    margin-bottom: 0px;
-    border-width: 0px;
-    -webkit-box-shadow: 0px 0px;
-    box-shadow: 0px 0px;
-    background-color: rgba(0,0,0,0.0);
-    background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));
-    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
-    background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
 }
 
 .jumbotron1 {
-    background-image: url(http://wallpapercave.com/wp/kSQdCxM.jpg);
+    background-image: url(https://www.w3.org/2016/Talks/W3CTrack-IH/covers/blackboard.jpg);
     background-repeat: no-repeat;
     padding-top: 100px;
     padding-bottom: 40px;
@@ -40,7 +19,7 @@ body {
 }
 
 .jumbotron2 {
-    background-image: url(http://wallpapercave.com/wp/kSQdCxM.jpg);
+    background-image: url(https://www.w3.org/2016/Talks/W3CTrack-IH/covers/blackboard.jpg);
     padding-top: 150px;
     padding-bottom: 150px;
     background-repeat: no-repeat;
